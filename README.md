@@ -4,12 +4,12 @@ Hello, welcome, I am currently an **Information Systems** student and web develo
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/wilsonwagner/)](https://www.linkedin.com/in/wilsonwagner/)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitee&link=https://github.com/wilsonwagner)](https://github.com/wilsonwagner)
 
-## GitHub Readme Stats <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="20px">
+## GitHub Readme Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonwagner&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
 
-## My Stacks:
+## My Stacks <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
