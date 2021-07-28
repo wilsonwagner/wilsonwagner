@@ -3,6 +3,7 @@ Hello, welcome, I am currently an **Information Systems** student and web develo
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/wilsonwagner/)](https://www.linkedin.com/in/wilsonwagner/)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitee&link=https://github.com/wilsonwagner)](https://github.com/wilsonwagner)
+[![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white&link=https://www.behance.net/wilsonwagner)](https://www.behance.net/wilsonwagner)
 
 ## GitHub Readme Stats
 
